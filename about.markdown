@@ -16,7 +16,7 @@ permalink: /about/
 [CSA farm boxes]: https://wikipedia.org/wiki/Community-supported_agriculture
 [Farm Fresh to You]: https://farmfreshtoyou.com
 [Farmer Thaddeus]: https://instagram.com/farmerthaddeus
-[Hosted on GitHub]: https://github.com/alxndr/lahau-rahi-le-cange-lehu
+[Hosted on GitHub]: https://github.com/alxndr/lahau-rahi-le-cange-lihu
 [Ilmentufa]: https://lojban.github.io/ilmentufa/glosser/glosser.htm
 [Jbofihe]: https://jboski.lojban.org
 [Lojban]: https://mw.lojban.org
@@ -24,7 +24,7 @@ permalink: /about/
 [Zbalermorna Upright]: https://github.com/jackhumbert/zbalermorna-upright-font
 [craiyon]: https://www.craiyon.com
 [is in the public domain]: https://commons.wikimedia.org/wiki/File:Lojban_logo.svg
-[la .gitub. cu kibyse'u]: https://github.com/alxndr/lahau-rahi-le-cange-lehu
+[la .gitub. cu kibyse'u]: https://github.com/alxndr/lahau-rahi-le-cange-lihu
 [la .ilmentufa]: https://lojban.github.io/ilmentufa/glosser/glosser.htm
 [la jbobau]: https://mw.lojban.org
 [la jbofi'e]: https://jboski.lojban.org
