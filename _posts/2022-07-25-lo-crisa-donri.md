@@ -21,7 +21,7 @@ title: lo crisa donri — Summer Days
 | .i le cipni cu jikca bau zo'e noi raunzu loka kampu kei loka lo prenu cu jimpe tu'a ce'u .i ki'u zo'e le cmalu cipni cu se fanza le nolraitru be le tsani | They communicate in a language so universal that even humans get the message — for some reason, the little birds are annoyed with the king of the air.
 |
 | .i ko nelci le do tanxe poi cabjeftu | Enjoy your boxes this week.
-| .i ko je'ebzi mi'a la xinstagram jau'o [@farmerthaddeus] .e [@farmfreshtoyou] | Don't forget to find and follow us on Instagram [@farmerthaddeus] and [@farmfreshtoyou].
+| .i ko je'ebzi mi'a la .instagram. jau'o [@farmerthaddeus] .e [@farmfreshtoyou] | Don't forget to find and follow us on Instagram [@farmerthaddeus] and [@farmfreshtoyou].
 {: .jbobau }
 
 ![photo of "From the Fields" 7/25/22 with update titled "Summer Days"](https://i.imgur.com/4V304JP.jpg)
