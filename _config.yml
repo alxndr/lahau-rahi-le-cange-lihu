@@ -11,3 +11,6 @@ minimal_mistakes_skin: "dirt"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+
+kramdown:
+ smart_quotes: ["apos", "apos", "quot", "quot"]
