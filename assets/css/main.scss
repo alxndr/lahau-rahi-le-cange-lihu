@@ -7,17 +7,20 @@ search: false
 @import "minimal-mistakes/skins/default"; // skin
 @import "minimal-mistakes"; // main partials
 
-
 @font-face {
-  font-family: "upright";
+  font-family: "Upright";
   src: url("/lahau-rahi-le-cange-lehu/assets/fonts/zbalermorna_upright.otf") format("opentype");
 }
 
 .jbobau {
+  tr:nth-child(2n+1) {
+    background: #eee;
+  }
   td {
     border-bottom: 0;
     &:first-child {
-      font: 1.1em upright;
+      font: 1.1em Upright;
+      line-height: 1em;
     }
   }
 }

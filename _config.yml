@@ -1,17 +1,13 @@
 title: la'au ra'i le cange le'u
-# email: alxndr+lahau-rahi-le-cange-lehu@gmail.com
 description: >-
   Lojban interpretations of Farmer Thaddeus's farm updates
 baseurl: /lahau-rahi-le-cange-lehu
 url: https://alxndr.github.io
-# twitter_username: alxndr
-# github_username:  drwxrxrx
-logo: "https://i.imgur.com/uxAQJOI.png"
+logo: "/assets/images/logo.png"
 
-theme: minimal-mistakes-jekyll
-# aux_links:
-#   "Farm Fresh to You":
-#     - https://www.farmfreshtoyou.com
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "dirt"
 
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
