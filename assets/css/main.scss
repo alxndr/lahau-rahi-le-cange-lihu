@@ -1,0 +1,23 @@
+---
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/default"; // skin
+@import "minimal-mistakes"; // main partials
+
+
+@font-face {
+  font-family: "upright";
+  src: url("/lahau-rahi-le-cange-lehu/assets/fonts/zbalermorna_upright.otf") format("opentype");
+}
+
+.jbobau {
+  td {
+    border-bottom: 0;
+    &:first-child {
+      font: 1.1em upright;
+    }
+  }
+}

@@ -2,9 +2,7 @@
 title: lo crisa donri — Summer Days
 ---
 
-| jbobau | English |
-|---|---|
-| .i le solri ba'o jukpa pe'a jai rinka lonu lei cmana cu melbi sloska ku noi masti li so'u | The sun has baked the hills into their beautiful golden color that will last for the next few months.
+| .i le solri ba'o jukpa pe'a jai rinka lonu lei cmana cu melbi sloska ku noi masti li so'u lo'o | The sun has baked the hills into their beautiful golden color that will last for the next few months.
 | .i lonu lo donri cu glare cu rinka tu'a lonu xamgu le ma'a tamca kei .e lonu lo prenu cu tolkufra | The days have been hot, which is great for our tomatoes, but not so pleasant for people.
 | .i lo bralai co djacu cu se xaksu .ije lenu donri glare cu se jalge lonu masno jeku'i stodi fa tu'a ro le cange jibri | Lots of water is being consumed, and the heat of the day results in a slower, but still steady pace, for all farm jobs.
 |
@@ -24,6 +22,7 @@ title: lo crisa donri — Summer Days
 |
 | .i ko nelci le do tanxe poi cabjeftu | Enjoy your boxes this week.
 | .i ko je'ebzi mi'a la xinstagram jau'o [@farmerthaddeus] .e [@farmfreshtoyou] | Don't forget to find and follow us on Instagram [@farmerthaddeus] and [@farmfreshtoyou].
+{: .jbobau }
 
 ![photo of "From the Fields" 7/25/22 with update titled "Summer Days"](https://i.imgur.com/4V304JP.jpg)
 
