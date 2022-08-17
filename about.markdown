@@ -7,7 +7,7 @@ permalink: /about/
 | .i [la rexsa] pu fanva si'u la janbe .e la srasu .e la xamsi .e lu'a la roljbogu'e | Interpreted by [Alexander aka Rexsa], with **much** help from Janbe, Srasu, Xamsi, and others from the roljbogu'e **Discord**.
 | .i ki'esai [la jbofi'e] .e [la sutysisku] .e [la .ilmentufa] | Many thanks to the [Jbofihe], [Sutysisku], and [Ilmentufa] **sites**.
 | .i le sinxa samrxra cu se zbasu sepi'o [la .KREION.] .i le sinxa be la lojbau pu se zbasu la .ELMOS.TODUROV. gi'e [gubni] | The logo image was partially created using [craiyon]. The Lojban icon is by Elmo Todurov and [is in the public domain].
-| .i ci'artai [la zbalermorna.YPRAIT.] | The Lojban font is [Zbalermorna Upright].
+| .i ci'artai fa [la zbalermorna.YPRAIT.] | The Lojban font is [Zbalermorna Upright].
 | .i [la .gitub. cu kibyse'u] | [Hosted on GitHub].
 {: .jbobau }
 
