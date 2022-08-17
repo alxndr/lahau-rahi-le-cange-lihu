@@ -25,5 +25,7 @@ title: lo crisa donri — Summer Days
 | .i ko nelci le do tanxe poi cabjeftu | Enjoy your boxes this week.
 | .i ko je'ebzi mi'a la xinstagram jau'o [@farmerthaddeus] .e [@farmfreshtoyou] | Don't forget to find and follow us on Instagram [@farmerthaddeus] and [@farmfreshtoyou].
 
+![photo of "From the Fields" 7/25/22 with update titled "Summer Days"](https://i.imgur.com/4V304JP.jpg)
+
 [@farmerthaddeus]: https://instagram.com/farmerthaddeus
 [@farmfreshtoyou]: https://instagram.com/farmfreshtoyou
