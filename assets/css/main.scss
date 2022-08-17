@@ -12,6 +12,11 @@ search: false
   src: url("/lahau-rahi-le-cange-lehu/assets/fonts/zbalermorna_upright.otf") format("opentype");
 }
 
+.site-title,
+.visible-links {
+  font-family: Upright;
+}
+
 .jbobau {
   tr:nth-child(2n+1) {
     background: #eee;
@@ -19,7 +24,7 @@ search: false
   td {
     border-bottom: 0;
     &:first-child {
-      font: 1.1em Upright;
+      font: 1.2em Upright;
       line-height: 1em;
     }
   }
