@@ -15,6 +15,7 @@ search: false
 .site-title,
 .visible-links {
   font-family: Upright;
+  &:hover { font-family: sans-serif; }
 }
 
 .jbobau {
@@ -26,9 +27,7 @@ search: false
     &:first-child {
       font: 1.2em Upright;
       line-height: 1em;
-      &:hover {
-        font-family: sans-serif;
-      }
+      &:hover { font-family: sans-serif; }
     }
   }
 }
