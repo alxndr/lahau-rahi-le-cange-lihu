@@ -3,10 +3,10 @@ title: velskicu — About
 permalink: /about/
 ---
 
-| .i ti xelfanva fi [la jbobau] fe lo cange nuzba poi finti fa [la .TADIYS. voi'i tercange] | [Lojban] interpretations of farm updates, originally authored by [Farmer Thaddeus] **via [Farm Fresh to You]'s [CSA farm boxes].**
+| .i ti xelfanva fi [la jbobau] fe lo cange nuzba poi finti fa [la .TADIIYS. voi'i tercange] | [Lojban] interpretations of farm updates, originally authored by [Farmer Thaddeus] **via [Farm Fresh to You]'s [CSA farm boxes].**
 | .i [la rexsa] pu fanva si'u la janbe .e la srasu .e la xamsi .e lu'a la roljbogu'e | Interpreted by [Alexander aka Rexsa], with **much** help from Janbe, Srasu, Xamsi, and others from the roljbogu'e **Discord**.
 | .i ki'esai [la jbofi'e] .e [la sutysisku] .e [la .ilmentufa] | Many thanks to the [Jbofihe], [Sutysisku], and [Ilmentufa] **sites**.
-| .i le sinxa samrxra cu se zbasu sepi'o [la .KREON.] .i le sinxa be la lojbau pu se zbasu la .ELMOS.TODUROV. gi'e [gubni] | The logo image was partially created using [craiyon]. The Lojban icon is by Elmo Todurov and [is in the public domain].
+| .i le sinxa samrxra cu se zbasu sepi'o [la .KREION.] .i le sinxa be la lojbau pu se zbasu la .ELMOS.TODUROV. gi'e [gubni] | The logo image was partially created using [craiyon]. The Lojban icon is by Elmo Todurov and [is in the public domain].
 | .i ci'artai [la zbalermorna.YPRAIT.] | The Lojban font is [Zbalermorna Upright].
 | .i [la .gitub. cu kibyse'u] | [Hosted on GitHub].
 {: .jbobau }
@@ -31,5 +31,5 @@ permalink: /about/
 [la rexsa]: https://mastodon.xyz/web/@alxndr
 [la .sutysisku]: https://la-lojbangithub.io/sutysisku/lojban
 [la zbalermorna.YPRAIT.]: https://github.com/jackhumbert/zbalermorna-upright-font
-[la .KREON.]: https://www.craiyon.com
-[la .TADIYS. voi'i tercange]: https://instagram.com/farmerthaddeus
+[la .KREION.]: https://www.craiyon.com
+[la .TADIIYS. voi'i tercange]: https://instagram.com/farmerthaddeus
