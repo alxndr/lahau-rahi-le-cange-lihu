@@ -26,6 +26,9 @@ search: false
     &:first-child {
       font: 1.2em Upright;
       line-height: 1em;
+      &:hover {
+        font-family: sans-serif;
+      }
     }
   }
 }
