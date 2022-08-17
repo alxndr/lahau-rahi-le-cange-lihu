@@ -19,15 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: la'au ra'i le cange le'u
-email: alxndr+lahau-rahi-le-cange-lehu@gmail.com
+# email: alxndr+lahau-rahi-le-cange-lehu@gmail.com
 description: >-
-  Lojban interpretations of farm updates • authored by Farmer Thaddeus
-  instagram.com/farmerthaddeus via farmfreshtoyou.com • interpreted by
-  alxndr aka la rexsa
+  Lojban interpretations of Farmer Thaddeus's farm updates
 baseurl: /lahau-rahi-le-cange-lehu
 url: https://alxndr.github.io
-twitter_username: alxndr
-github_username:  drwxrxrx
+# twitter_username: alxndr
+# github_username:  drwxrxrx
 
 # Build settings
 theme: minima

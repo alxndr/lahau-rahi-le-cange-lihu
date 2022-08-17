@@ -1,18 +1,16 @@
 ---
 layout: page
-title: About
+title: velskicu — About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+| jbobau | English
+|---|---
+| .i xelfanva fi la jbobau fe lo cange nuzba poi finti fa [la .tadiys. voi'i tercange] | Lojban interpretations of farm updates, originally authored by [Farmer Thaddeus] via [Farm Fresh to You] [CSA farm boxes].
+| .i [la rexsa] pu fanva si'u la janbe .e la srasu .e la xamsi .e ra'ei | Interpreted by [la rexsa], with much help from Janbe, Srasu, Xamsi, and others from the roljbogu'e Discord.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[la .tadiys. voi'i tercange]: https://instagram.com/farmerthaddeus
+[la rexsa]: https://mastodon.xyz/web/@alxndr
+[CSA farm boxes]: https://en.wikipedia.org/wiki/Community-supported_agriculture
+[Farmer Thaddeus]: https://instagram.com/farmerthaddeus
+[Farm Fresh to You]: https://farmfreshtoyou.com
