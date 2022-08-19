@@ -3,7 +3,7 @@ title: lo glanejni be lo crisa — Summer's Heat
 ---
 
 | .i lonu catlu lo tsani pe le cange zo'u se cinri ca lo cabjeftu | Our farm skies have been interesting to watch this week.
-|  | I spied some early geese making a "V" along the creek, and later that evening, I caught a few meteors burning in the night sky.
+| .i mi pu viska lo xa clira zei gunse poi se tarmi vy bu'u la cmafle .i pu zo'u ca lo vanci mi viska lo falplini noi se fagri bu'u le tsani | I spied some early geese making a "V" along the creek, and later that evening, I caught a few meteors burning in the night sky.
 |  | During the day, it is usually clear and hot; other times, it is cloudy and hot.
 |  | The heat is good for some crops and a menace for others, especially our little transplants.
 |  | By adjusting our watering habits and taking advantage of the cool mornings, we can avoid getting burned too badly.
