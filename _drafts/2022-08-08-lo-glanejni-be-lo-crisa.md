@@ -8,10 +8,10 @@ title: lo glanejni be lo crisa — Summer's Heat
 | .i mi pu viska so'u lo clira zei gunse poi se tarmi vy bu'u la cmafle .i pu zo'u ca lo vanci mi viska lo falplini noi se fagri bu'u le tsani | I spied some early geese making a "V" along the creek, and later that evening, I caught a few meteors burning in the night sky.
 | .i lonu klina .e lonu glare cu fadni ca lo donri .i lonu dilnu .e lonu glare cu fadni ca lo nicte | During the day, it is usually clear and hot; other times, it is cloudy and hot.
 | .i lonu glanejni cu terprali so'u lo terpurdi ku gi'e ckape lo cmalu terpurdi co muvypu'i | The heat is good for some crops and a menace for others, `especially` our little transplants.
-| .i lonu stika loka djacygau tcaci keiku .e lonu pilno lo mlilenku cerni ku keiku cu te rivbi lonu traji jelca keiku ma'a | By adjusting our watering habits and taking advantage of the cool mornings, we can avoid getting burned too badly.
+| .i lonu stika loka djacygau tcaci keiku .e lonu pilno lo mlilenku cerni ku keiku cu te rivbi lonu traji jelca keiku mi'a | By adjusting our watering habits and taking advantage of the cool mornings, we can avoid getting burned too badly.
 |  |
-|  | We start planting in the early morning.
-|  | As soon as there is light, we are slipping fragile, young kale and chard seedlings fresh from the greenhouse into our soil, which already has moisture from a pre-irrigation the day before.
+| .i ca lo clira cerni ku cfari lonu sombo | We start planting in the early morning.
+| .i lo cermurse cu temsepcau lonu mi'a setca ra'i le spadi'u lo ralci citspa co ri'orko'i ku le mi'a dertu | As soon as there is light, we are slipping fragile, young kale `and chard` seedlings `fresh` from the greenhouse into our soil, `which already has moisture from a pre-irrigation the day before`.
 |  | As soon as the first several beds are filled, we twist open the sprinklers on those rows to relieve the little babes from the dry heat.
 |  | On these hot days, we try to finish early in the afternoon to avoid the exposure to the dry, 100-degree wind that may rise up and threaten to wither the plant before we can put the water on.
 |  |
