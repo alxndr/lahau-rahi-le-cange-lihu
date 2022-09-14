@@ -7,8 +7,8 @@ title: lo glanejni be lo crisa — Summer's Heat
 | .i lonu catlu lo tsani pe le cange zo'u se cinri ca lo cabjeftu | Our farm skies have been interesting to watch this week.
 | .i mi pu viska so'u lo clira zei gunse poi se tarmi vy bu'u la cmafle .i pu zo'u ca lo vanci mi viska lo falplini noi se fagri bu'u le tsani | I spied some early geese making a "V" along the creek, and later that evening, I caught a few meteors burning in the night sky.
 | .i lonu klina .e lonu glare cu fadni ca lo donri .i lonu dilnu .e lonu glare cu fadni ca lo nicte | During the day, it is usually clear and hot; other times, it is cloudy and hot.
-| .i lonu glare cu terprali so'u lo terpurdi ku gi'e ckape lo cmalu terpurdi co muvypu'i | The heat is good for some crops and a menace for others, especially our little transplants.
-|  | By adjusting our watering habits and taking advantage of the cool mornings, we can avoid getting burned too badly.
+| .i lonu glanejni cu terprali so'u lo terpurdi ku gi'e ckape lo cmalu terpurdi co muvypu'i | The heat is good for some crops and a menace for others, `especially` our little transplants.
+| .i lonu stika loka djacygau tcaci keiku .e lonu pilno lo mlilenku cerni ku keiku cu te rivbi lonu traji jelca keiku ma'a | By adjusting our watering habits and taking advantage of the cool mornings, we can avoid getting burned too badly.
 |  |
 |  | We start planting in the early morning.
 |  | As soon as there is light, we are slipping fragile, young kale and chard seedlings fresh from the greenhouse into our soil, which already has moisture from a pre-irrigation the day before.
