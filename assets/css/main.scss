@@ -8,13 +8,18 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 @font-face {
-  font-family: "Upright";
+  font-family: "Dreluhu";
+  src: url("/lahau-rahi-le-cange-lihu/assets/fonts/dreluhu-gothic.otf")
+}
+
+@font-face {
+  font-family: "Zbalermorna";
   src: url("/lahau-rahi-le-cange-lihu/assets/fonts/zbalermorna_upright.otf") format("opentype");
 }
 
 .site-title,
 .visible-links {
-  font: 1.1em/1.3em Upright;
+  font: 1.1em/1.3em Zbalermorna;
   &:hover { font-family: sans-serif; }
 }
 
@@ -25,7 +30,7 @@ search: false
   td {
     border-bottom: 0;
     &:first-child {
-      font: 1.4em/1.2em Upright;
+      font: 1.4em/1.2em Dreluhu;
       &:hover { font-family: sans-serif; }
     }
   }
