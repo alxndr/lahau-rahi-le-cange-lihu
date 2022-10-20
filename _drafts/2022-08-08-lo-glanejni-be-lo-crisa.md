@@ -12,10 +12,10 @@ title: lo glanejni be lo crisa — Summer's Heat
 |  |
 | .i ca lo clira cerni ku cfari lonu sombo | We start planting in the early morning.
 | .i lo cermurse ca lonu mi'a setca ra'i le spadi'u lo ralci citspa co ri'orko'i ku le mi'a dertu | As soon as there is light, we are slipping fragile, young kale **and chard** seedlings **fresh** from the greenhouse into our soil, **which already has moisture from a pre-irrigation the day before**.
-| i lonu culno fa le pamoi spacka cu cabna lonu mi'a narca'acadgau lo jaursabji bu'u le lijgri seki'u lonu co'urdu'u fa lo cmalu citno fe lo sudga glanejni | As soon as the first **several** beds are filled, we **twist** open the sprinklers on those rows to relieve the little babes from the dry heat.
-|  | On these hot days, we try to finish early in the afternoon to avoid the exposure to the dry, 100-degree wind that may rise up and threaten to wither the plant before we can put the water on.
+| .i lonu culno fa le pamoi spacka cu cabna lonu mi'a narca'acadgau lo jaursabji bu'u le lijgri seki'u lonu co'urdu'u fa lo cmalu citno fe lo sudga glanejni | As soon as the first **several** beds are filled, we **twist** open the sprinklers on those rows to relieve the little babes from the dry heat.
+| .i lo ti glare djedi zo'u mi'a clira mulgau troci .imu'ibo djica lonu rivbi le sudga joi glare brife poi ka'e zunti lonu banro keiku  | On these hot days, we try to finish early in the afternoon to avoid the exposure to the dry, **100-degree** wind that may rise up and threaten to wither the plant **before we can put the water on**.
 |  |
-|  | It has been hot enough that the tiny plants have slumped over sideways despite our efforts.
+| .i lonu glare be le tcima cu faurbanzu lonu le cmalu spati cu tijyfa'u ju'aku'i le nuntoi be mi'a | It has been hot enough that the tiny plants have slumped over sideways despite our efforts.
 |  | When this happens, it takes some faith to remain calm and know that all is not lost.
 |  | We go through this every summer, and the plants recover in a day or so with a steady supply of water.
 | .o'usai viska lonu lo spati cu sraji | It is a huge relief to see them perk up!
