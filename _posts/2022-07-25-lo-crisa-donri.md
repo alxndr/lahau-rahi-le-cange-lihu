@@ -24,7 +24,7 @@ title: lo crisa donri — Summer Days
 | .i ko je'ebzi mi'a la .instagram. jau'o [@farmerthaddeus] .e [@farmfreshtoyou] | Don't forget to find and follow us on Instagram [@farmerthaddeus] and [@farmfreshtoyou].
 {: .jbobau }
 
-[![photo of "From the Fields" 7/25/22 with update titled "Summer Days"](https://i.imgur.com/4V304JPl.jpg)](https://i.imgur.com/4V304JP.jpg)
+[![photo of "From the Fields" 7/25/22 with update titled "Summer Days"](https://i.imgur.com/4V304JPl.jpg)](https://i.imgur.com/4V304JP.jpg){: .align-center}
 
 [@farmerthaddeus]: https://instagram.com/farmerthaddeus
 [@farmfreshtoyou]: https://instagram.com/farmfreshtoyou

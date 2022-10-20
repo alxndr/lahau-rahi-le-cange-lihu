@@ -32,7 +32,7 @@ title: nalzva lo cicyspa — Absent of Weeds
 | fi'e la tadEYs | — Thaddeus
 {: .jbobau }
 
-[![photo of "Absent of Weeds", via _From the Fields_ 2022 September 19–23](https://i.imgur.com/vQL2Ffjl.jpeg)](https://i.imgur.com/vQL2Ffj.jpeg)
+[![photo of "Absent of Weeds", via _From the Fields_ 2022 September 19–23](https://i.imgur.com/vQL2Ffjl.jpeg)](https://i.imgur.com/vQL2Ffj.jpeg){: .align-center}
 
 [@farmerthaddeus]: https://instagram.com/farmerthaddeus
 [@farmfreshtoyou]: https://instagram.com/farmfreshtoyou

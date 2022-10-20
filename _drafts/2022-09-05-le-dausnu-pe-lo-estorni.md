@@ -35,7 +35,7 @@ title: le dausnu pe lo estorni — The Starling Debate
 | fi'e la tadEYs | — Thaddeus
 {: .jbobau }
 
-[![photo of "The Starling Debate", via _From the Fields_ 2022 September 5–9](https://i.imgur.com/XiNQcvdl.jpg)](https://i.imgur.com/XiNQcvd.jpg)
+[![photo of "The Starling Debate", via _From the Fields_ 2022 September 5–9](https://i.imgur.com/XiNQcvdl.jpg)](https://i.imgur.com/XiNQcvd.jpg){: .align-center}
 
 [@farmerthaddeus]: https://instagram.com/farmerthaddeus
 [@farmfreshtoyou]: https://instagram.com/farmfreshtoyou
