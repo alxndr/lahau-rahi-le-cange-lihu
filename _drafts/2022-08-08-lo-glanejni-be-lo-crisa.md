@@ -24,6 +24,7 @@ title: lo glanejni be lo crisa — Summer's Heat
 |  |
 | .i ko nelci le do tanxe poi cabjeftu | Enjoy your box this week.
 | .i ko je'ebzi mi'a la .instagram. jau'o [@farmerthaddeus] .e [@farmfreshtoyou] | Make sure to find us on Instagram [@farmerthaddeus] and [@farmfreshtoyou].
+| fi'e la tadEYs | — Thaddeus
 {: .jbobau }
 
 [![photo of "From the Fields" 8/8/22 with update titled "Summer's Days"](https://i.imgur.com/gMgAWQPl.jpg)](https://i.imgur.com/gMgAWQP.jpg)
