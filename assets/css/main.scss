@@ -8,25 +8,32 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 @font-face {
-  font-family: "Upright";
+  font-family: "Zbalermorna Upright";
   src: url("/lahau-rahi-le-cange-lihu/assets/fonts/zbalermorna_upright.otf") format("opentype");
 }
 
-.site-title,
-.visible-links {
-  font: 1.1em/1.3em Upright;
-  &:hover { font-family: sans-serif; }
+@mixin zbalermorna {
+  font: 1.3em/1.2em "Zbalermorna Upright";
+  &:hover {
+    font-family: sans-serif;
+  }
 }
 
-.jbobau {
-  tr:nth-child(2n+1) {
-    background: #eee;
+.jbobau,
+.masthead a {
+  @include zbalermorna;
+}
+
+.palne-jbobau {
+  thead {
+    text-align: center;
   }
-  td {
-    border-bottom: 0;
+  tbody {
+    border-bottom: 1.5em solid #eee;
+  }
+  tr > * {
     &:first-child {
-      font: 1.4em/1.2em Upright;
-      &:hover { font-family: sans-serif; }
+      @include zbalermorna;
     }
   }
 }
