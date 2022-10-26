@@ -1,12 +1,15 @@
 ---
 title: le dausnu pe lo estorni — The Starling Debate
+excerpt: lo dalgunma be lo estorni cu xabju le cange
 ---
+
+# <span class="jbobau">le dausnu pe lo estorni</span> — The Starling Debate
 
 | jbobau | English
 |-|-
-| .i lo dalgunma be lo estorni cu xabju le cange | There is a flock of starlings that resides on the farm.
-| .i lo estorni cu citka gi'e sipna gi'e klama | Starlings eat, sleep and travel `together`.
-|  | The tops of the big oak and eucalyptus trees are their nesting grounds.
+| .i le dalgunma be lo estorni cu xabju le cange | There is a flock of starlings that resides on the farm.
+| .i ko'agoi lei .estorni cu kansi'u loka citka je loka sipna je loka klama | Starlings eat, sleep and travel together.
+| .i lo galraipau be loi barda cindu joi maprultricu cu zdani ko'a | The tops of the big oak and eucalyptus trees are their nesting grounds.
 |  | They are not easily seen among the leaves, but hundreds of little beaks squeak at each other in the quick high-pitched murmurs that reveal their presence to a trained ear.
 |  | When the group is ready to change locations, a couple of birds leave and the remainder follow.
 |  | They travel over the farm like a swarm of insects, swooping up and down, to the left or right in a fluid motion.
@@ -32,8 +35,8 @@ title: le dausnu pe lo estorni — The Starling Debate
 |  | 
 |  | Enjoy your boxes and don't forget to check us out on Instagram [@farmerthaddeus] and [@farmfreshtoyou].
 |  | 
-| fi'e la tadEYs | — Thaddeus
-{: .jbobau }
+| fi'e la TADi,ys | — Thaddeus
+{: .palne-jbobau }
 
 [![photo of "The Starling Debate", via _From the Fields_ 2022 September 5–9](https://i.imgur.com/XiNQcvdl.jpg)](https://i.imgur.com/XiNQcvd.jpg){: .align-center}
 
