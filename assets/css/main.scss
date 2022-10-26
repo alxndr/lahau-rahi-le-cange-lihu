@@ -13,10 +13,14 @@ search: false
 }
 
 @mixin zbalermorna {
-  font: 1.3em/1.2em "Zbalermorna Upright";
+  font: 1.2em "Zbalermorna Upright";
   &:hover {
     font-family: sans-serif;
   }
+}
+
+h1 {
+  text-align: center;
 }
 
 .jbobau,
@@ -32,6 +36,7 @@ search: false
     border-bottom: 1.5em solid #eee;
   }
   tr > * {
+    width: 50%;
     &:first-child {
       @include zbalermorna;
     }
