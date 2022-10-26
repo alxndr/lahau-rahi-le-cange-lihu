@@ -13,9 +13,10 @@ search: false
 }
 
 @mixin zbalermorna {
-  font: 1.2em "Zbalermorna Upright";
+  font: 1.1em "Zbalermorna Upright";
+  transition-property: none;
   &:hover {
-    font-family: sans-serif;
+    font: 1em sans-serif;
   }
 }
 
@@ -29,16 +30,21 @@ h1 {
 }
 
 .palne-jbobau {
-  thead {
+  thead * {
     text-align: center;
   }
   tbody {
+    font-size: 1.2em;
     border-bottom: 1.5em solid #eee;
   }
   tr > * {
     width: 50%;
     &:first-child {
+      font-size: 1.1em !important;
       @include zbalermorna;
     }
+  }
+  .latmylerfu {
+    font-family: sans-serif;
   }
 }
