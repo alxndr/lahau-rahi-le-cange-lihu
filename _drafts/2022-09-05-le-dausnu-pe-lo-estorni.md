@@ -1,16 +1,16 @@
 ---
-title: le dausnu pe lo estorni — The Starling Debate
-excerpt: lo dalgunma be lo estorni cu xabju le cange
+title: le dausnu pe lo .estorni — The Starling Debate
+excerpt: lo dalgunma be lo .estorni cu xabju le cange
 ---
 
-# <span class="jbobau">le dausnu pe lo estorni</span> — The Starling Debate
+# <span class="jbobau">le dausnu pe lo .estorni</span> — The Starling Debate
 
 | jbobau | English
 |-|-
-| .i le dalgunma be lo estorni cu xabju le cange | There is a flock of starlings that resides on the farm.
+| .i le dalgunma be lo .estorni cu xabju le cange | There is a flock of starlings that resides on the farm.
 | .i ko'agoi lei .estorni cu kansi'u loka citka je loka sipna je loka klama | Starlings eat, sleep and travel together.
 | .i lo galraipau be loi barda cindu joi maprultricu cu zdani ko'a | The tops of the big oak and eucalyptus trees are their nesting grounds.
-|  | They are not easily seen among the leaves, but hundreds of little beaks squeak at each other in the quick high-pitched murmurs that reveal their presence to a trained ear.
+| .i lonu viska ko'a bu'u loi pezli na frili .i ku'i loi su'o renono cmalu zei ja'urxe'a cu torbrato'a fa'a ri | They are not easily seen among the leaves, but **hundreds of** little beaks squeak at each other **in the quick high-pitched murmurs that reveal their presence to a trained ear**.
 |  | When the group is ready to change locations, a couple of birds leave and the remainder follow.
 |  | They travel over the farm like a swarm of insects, swooping up and down, to the left or right in a fluid motion.
 |  | The color of the flock changes as more or less daylight can be seen through the three-dimensional mass of birds.
