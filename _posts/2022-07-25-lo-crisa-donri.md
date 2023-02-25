@@ -26,7 +26,7 @@ excerpt: .i le solri ba'o jukpa pe'a jai rinka lonu lei cmana cu melbi sloska ku
 | .i le cipni cu jikca bau zo'e noi raunzu loka kampu kei loka lo prenu cu jimpe tu'a ce'u .i ki'u zo'e le cmalu cipni cu se fanza le nolraitru be le tsani | They communicate in a language so universal that even humans get the message — for some reason, the little birds are annoyed with the king of the air.
 | ---
 | .i ko nelci le do tanxe poi cabjeftu | Enjoy your boxes this week.
-| .i ko je'ebzi mi'a la .instagram. jau'o <span class="latmylerfu">[@farmerthaddeus]</span> .e <span class="latmylerfu">[@farmfreshtoyou]</span> | Don't forget to find and follow us on Instagram [@farmerthaddeus] and [@farmfreshtoyou].
+| .i ko je'ebzi mi'a la INSTAGRAM jau'o <span class="latmylerfu">[@farmerthaddeus]</span> .e <span class="latmylerfu">[@farmfreshtoyou]</span> | **Don't forget to find and** follow us on Instagram [@farmerthaddeus] and [@farmfreshtoyou].
 | fi'e la TADIYS | — Thaddeus
 {: .palne-jbobau }
 
