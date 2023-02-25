@@ -1,5 +1,5 @@
 ---
-title: lo glanejni be lo crisa — Summer's Heat
+title: <span class="jbobau">lo glanejni be lo crisa</span> — Summer's Heat
 excerpt: .i lonu catlu lo tsani pe le cange zo'u cinri ca lo cabjeftu
 ---
 
@@ -27,7 +27,7 @@ excerpt: .i lonu catlu lo tsani pe le cange zo'u cinri ca lo cabjeftu
 | ---
 | .i ko nelci le do tanxe poi cabjeftu | Enjoy your box this week.
 | .i ko je'ebzi mi'a la .instagram. jau'o [@farmerthaddeus] .e [@farmfreshtoyou] | Make sure to find us on Instagram [@farmerthaddeus] and [@farmfreshtoyou].
-| fi'e la tadI,Ys | — Thaddeus
+| fi'e la TADIYS | — Thaddeus
 {: .palne-jbobau }
 
 [![photo of "Summer's Days", via "From the Fields" 2022 August 8–12](https://i.imgur.com/gMgAWQPl.jpg)](https://i.imgur.com/gMgAWQP.jpg){: .align-center}

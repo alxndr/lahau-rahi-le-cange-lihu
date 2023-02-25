@@ -1,6 +1,7 @@
 ---
-title: le dausnu pe lo .estorni — The Starling Debate
-excerpt: lo dalgunma be lo .estorni cu xabju le cange
+date: 2022-09-05
+title: <span class="jbobau">le dausnu pe lo .estorni</span> — The Starling Debate
+excerpt: .i le dalgunma be lo .estorni cu xabju le cange
 ---
 
 # <span class="jbobau">le dausnu pe lo .estorni</span> — The Starling Debate
@@ -21,7 +22,7 @@ excerpt: lo dalgunma be lo .estorni cu xabju le cange
 |  | As soon as a fig or peach is ready to harvest, a starling will gut the fruit, ruining it for human consumption.
 |  | The harvest crews are given strict orders to get to the fruit first.
 |  | Starlings are smart; the bird canon [sic], which simulates the sound of a gunshot, that we installed to scare them from the grapes worked for about a day before they recognized its sound and rhythm.
-|  | 
+|---
 |  | The fennel field is in the middle of being hoed.
 |  | The little plants stand about six inches tall and the weeds about four.
 |  | Tractor cultivation cleaned up many of the weeds and the hoeing crew goes next.
@@ -29,13 +30,13 @@ excerpt: lo dalgunma be lo .estorni cu xabju le cange
 |  | I walked out to inspect the progress of the hoeing crew and was surprised to note the entire flock of starlings in the fennel patch.
 |  | The birds were jumping around chasing down dinner before settling into an evening of gossiping in the tall oak trees.
 |  | They noticed me, but paid little attention to my presence, — at best they were courteous enough to hop out of my way.
-|  | 
+|---
 |  | It didn't take long for me to wonder if the bugs they were eating were good or bad bugs.
 |  | It also didn't take long for me to imagine how great it would be if the starlings and I could make a deal, — they could have an unlimited supply of fresh fruit in peace, in exchange for pest termination services.
-|  | 
+|---
 |  | Enjoy your boxes and don't forget to check us out on Instagram [@farmerthaddeus] and [@farmfreshtoyou].
-|  | 
-| fi'e la TADi,ys | — Thaddeus
+|---
+| fi'e la TADIYS | — Thaddeus
 {: .palne-jbobau }
 
 [![photo of "The Starling Debate", via _From the Fields_ 2022 September 5–9](https://i.imgur.com/XiNQcvdl.jpg)](https://i.imgur.com/XiNQcvd.jpg){: .align-center}

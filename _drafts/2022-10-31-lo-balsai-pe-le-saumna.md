@@ -1,9 +1,10 @@
 ---
-title: — Halloween Binge
+date: 2022-10-31
+title: <span class="jbobau">lo balsai pe le saumna</span> — Halloween Binge
 excerpt: ...
 ---
 
-# <span class="jbobau">...</span> — Halloween Binge
+# <span class="jbobau">lo balsai pe le saumna</span> — Halloween Binge
 
 | jbobau | English
 |-|-
@@ -33,4 +34,10 @@ excerpt: ...
 |---
 | | Enjoy your boxes this week and realize that an annual binge of sugar is fun, but that eating healthy as a child is one of the few gifts that keeps on giving.
 | | Be sure to find and follow us on Instagram [@farmfreshtoyou] and [@farmerthaddeus].
-| | — Thaddeus
+| fi'e la TADIYS | — Thaddeus
+{: .palne-jbobau }
+
+[![photo of "Halloween Binge" leaflet, via _From the Fields_ 2022 October 31](https://i.imgur.com/lx5mWYw.jpeg)](https://i.imgur.com/lx5mWYw.jpeg){: .align-center}
+
+[@farmerthaddeus]: https://instagram.com/farmerthaddeus
+[@farmfreshtoyou]: https://instagram.com/farmfreshtoyou

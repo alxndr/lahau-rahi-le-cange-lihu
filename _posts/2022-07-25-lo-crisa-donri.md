@@ -1,6 +1,6 @@
 ---
-title: lo crisa donri — Summer Days
-excerpt: le solri ba'o jukpa pe'a jai rinka lonu lei cmana cu melbi sloska ku noi masti li so'u lo'o
+title: <span class="jbobau">lo crisa donri</span> — Summer Days
+excerpt: .i le solri ba'o jukpa pe'a jai rinka lonu lei cmana cu melbi sloska ku noi masti li so'u lo'o
 ---
 
 # <span class="jbobau">lo crisa donri</span> — Summer Days
@@ -27,7 +27,7 @@ excerpt: le solri ba'o jukpa pe'a jai rinka lonu lei cmana cu melbi sloska ku no
 | ---
 | .i ko nelci le do tanxe poi cabjeftu | Enjoy your boxes this week.
 | .i ko je'ebzi mi'a la .instagram. jau'o <span class="latmylerfu">[@farmerthaddeus]</span> .e <span class="latmylerfu">[@farmfreshtoyou]</span> | Don't forget to find and follow us on Instagram [@farmerthaddeus] and [@farmfreshtoyou].
-| fi'e la TADi,ys | — Thaddeus
+| fi'e la TADIYS | — Thaddeus
 {: .palne-jbobau }
 
 [![photo of "Summer Days", via _From the Fields_ 2022 July 25–29](https://i.imgur.com/4V304JPl.jpg)](https://i.imgur.com/4V304JP.jpg){: .align-center}

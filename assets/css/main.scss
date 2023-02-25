@@ -13,17 +13,22 @@ search: false
 }
 
 @mixin zbalermorna {
-  font: 1.1em "Zbalermorna Upright";
+  font-family: "Zbalermorna Upright";
   transition-property: none;
+  // *:hover > &, // so span.jbobau works _within_ a link ... but is overeager with .palne-jbobau
   &:hover {
-    font: 1em sans-serif;
+    font-family: sans-serif !important;
   }
+}
+
+* {
 }
 
 h1 {
   text-align: center;
 }
 
+.archive__item-excerpt,
 .jbobau,
 .masthead a {
   @include zbalermorna;
