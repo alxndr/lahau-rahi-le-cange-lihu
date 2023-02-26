@@ -7,7 +7,7 @@ permalink: /about/
 | ---
 | .i ti xelfanva fi [la jbobau] fe lo cange nuzba poi finti fa [la TADIYS voi'i tercange] | [Lojban] interpretations of farm updates, originally authored by [Farmer Thaddeus] **via [Farm Fresh to You]'s [CSA farm boxes].** **English text which is marked in bold has not yet been translated.**
 | ---
-| .i [la rexsa] pu fanva si'u la janbe .e la srasu .e la xamsi .e lu'a la [roljbogu'e] .i ki'esai [la jbofi'e] .e [la sutysisku] .e [la .ilmentufa] | Interpreted by [Alexander aka Rexsa], with **much** help from Janbe, Srasu, Xamsi, and others from the [roljbogu'e] **Discord**. Many thanks to the [Jbofihe], **[Lidysisku]**, [Sutysisku], and [Ilmentufa] **sites**.
+| .i [la rexsa] pu fanva si'u la janbe .e la srasu .e la xamsi .e la bicyxli .e lu'a la [roljbogu'e] .i ki'esai [la jbofi'e] .e [la lidysisku] .e [la sutysisku] .e [la .ilmentufa] | Interpreted by [Alexander aka Rexsa], with **much** help from Janbe, Srasu, Xamsi, Bicyxli, and others from the [roljbogu'e] **Discord**. Many thanks to the [Jbofihe], [Lidysisku], [Sutysisku], and [Ilmentufa] **sites**.
 |  | **This is a learning exercise for me, so there may be errors and inconsistencies.** **In particular, I am attempting to use modern terms, but not using e.g. a [Lojban dialect which modifies particles](https://web.archive.org/web/20220808222802/https://vlasisku.lojban.org/tcekitau).**
 | ---
 | .i le sinxa samrxra cu se zbasu sepi'o [la KREION.] .i le sinxa be la lojbau pu se zbasu la .ELMOS.TODUROV. gi'e [gubni] | The logo image was partially created using [craiyon]. The Lojban icon is by Elmo Todurov and [is in the public domain].
@@ -37,6 +37,7 @@ permalink: /about/
 [la jbobau]: https://mw.lojban.org
 [la jbofi'e]: https://jboski.lojban.org
 [la kmir]: https://mw.lojban.org/papri/User:Kmir
+[la lidysisku]: https://sisku.org
 [la rexsa]: https://mastodon.xyz/web/@alxndr
 [la sutysisku]: https://la-lojbangithub.io/sutysisku/lojban
 [la zbalermorna.YPRAIT.]: https://github.com/jackhumbert/zbalermorna-upright-font

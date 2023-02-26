@@ -14,10 +14,10 @@ excerpt: .i le dalgunma be lo .estorni cu xabju le cange
 | .i lonu viska ko'a bu'u loi pezli na frili .i ku'i loi su'o renono cmalu zei ja'urxe'a cu torbrato'a fa'a ri | They are not easily seen among the leaves, but **hundreds of** little beaks squeak at each other **in the quick high-pitched murmurs that reveal their presence to a trained ear**.
 | .i mu'i leka bredi be lonu muvdu keikei pe le girzu zo'u so'u cipni cu cliva .i lo velvi'u cu klaje'i | When the group is ready to change locations, a couple of birds leave and the remainder follow.
 | .i cy li'urxa'u le cange | They travel over the farm **like a swarm of insects, swooping up and down, to the left or right in a fluid motion**.
-| .i le selska pe le cipni girzu ge'u cu binxo | The color of the flock changes **as more or less daylight can be seen through the three-dimensional mass of birds**.
+| .i le selska pe le dalgunma ge'u cu binxo | The color of the flock changes **as more or less daylight can be seen through the three-dimensional mass of birds**.
 |---
-| .i lei cipni girzu cu zdile je nolmle je selte'a | The flocks are entertaining, even graceful or spooky **to watch fly around the farm**.
-| .i ku'i | However, **the warm fuzzy feelings fade as quickly as the mass can settle itself onto an orchard of ripe figs or peaches**.
+| .i lei dalgunma cu zdile je nolmle je selte'a | The flocks are entertaining, even graceful or spooky **to watch fly around the farm**.
+| .i ku'i lenu kufra sepre cu canci ki'u lonu le dalgunma cu stuvi'e lo rutpurdi be lo makcu figre ja najysmela | However, the warm fuzzy feelings fade **as quickly as** the mass can settle itself onto an orchard of ripe figs or peaches.
 | .i lo ti envaxire cipni cu steci nelci lo vifne grute | These non-native birds have a unique taste for fresh fruit, **one that would meet the quality standards of any good produce buyer**.
 | .i | As soon as a fig or peach is ready to harvest, a starling will gut the fruit, ruining it for human consumption.
 | .i | The harvest crews are given strict orders to get to the fruit first.
