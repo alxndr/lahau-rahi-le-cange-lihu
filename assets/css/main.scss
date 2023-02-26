@@ -13,18 +13,18 @@ search: false
 }
 
 @mixin zbalermorna {
-  font-size: 1.5em;
+  font-size: 1.25em;
   font-family: "Zbalermorna Upright";
-  transition-property: none;
   // *:hover > &, // so span.jbobau works _within_ a link ... but is overeager with .palne-jbobau
   &:hover {
-    font-size: 1em !important;
+    font-size: 1.1em !important;
     font-family: sans-serif !important;
-    line-height: 2.5em !important;
+    line-height: 2em !important;
   }
 }
 
 * {
+  transition: none !important;
 }
 
 h1 {
