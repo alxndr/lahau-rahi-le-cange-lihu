@@ -34,7 +34,7 @@ h1 {
 .archive__item-excerpt,
 .jbobau,
 .masthead a {
-  @include zbalermorna;
+  //@include zbalermorna;
 }
 
 .palne-jbobau {
@@ -48,7 +48,7 @@ h1 {
   tr > * {
     width: 50%;
     &:first-child {
-      @include zbalermorna;
+      //@include zbalermorna;
     }
   }
   .latmylerfu {
