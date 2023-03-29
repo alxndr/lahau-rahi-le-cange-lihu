@@ -20,7 +20,7 @@ excerpt: .i le dalgunma be lo .estorni cu xabju le cange
 | .i ku'i lenu kufra sepre cu canci ki'u lonu le dalgunma cu stuvi'e lo rutpurdi be lo makcu figre ja najysmela | However, the warm fuzzy feelings fade **as quickly as** the mass can settle itself onto an orchard of ripe figs or peaches.
 | .i lo ti envaxire cipni cu steci nelci lo vifne grute .i le nu nelci poi mansa ro xamgu tervecnu | These non-native birds have a unique taste for fresh fruit, **one that would meet the quality standards of any good produce buyer**.
 | .i co'i pa figre a pa najysmela cu makcu ca lonu lo .estorni cu cantybargau le grute seri'a lonu gy to'ectixau loi prenu | As soon as a fig or peach is ready to harvest, a starling will gut the fruit, ruining it for human consumption.
-| .i | The harvest crews are given strict orders to get to the fruit first.
+| .i le'i crepu bende cu vairselmi'e fi lonu cpacu le'i grute | The harvest crews are given strict orders to get to the fruit **first**.
 | .i | Starlings are smart; the bird canon [sic], which simulates the sound of a gunshot, that we installed to scare them from the grapes worked for about a day before they recognized its sound and rhythm.
 |---
 | .i | The fennel field is in the middle of being hoed.
