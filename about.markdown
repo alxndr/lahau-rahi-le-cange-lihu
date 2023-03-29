@@ -12,8 +12,6 @@ permalink: /about/
 | ---
 | .i le sinxa samrxra cu se zbasu sepi'o [la KREION.] .i le sinxa be la lojbau pu se zbasu la .ELMOS.TODUROV. gi'e [gubni] | The logo image was partially created using [craiyon]. The Lojban icon is by Elmo Todurov and [is in the public domain].
 | ---
-| .i ci'artai fa [la zbalermorna.YPRAIT.] | **The unusual-looking letters are a writing system called [Zbalermorna], designed by [la kmir] specifically to write Lojban.** The font is [Zbalermorna Upright], **created by Jack Humbert**.
-| ---
 | .i [la gitub. cu kibyse'u] | [Hosted on GitHub].
 {: .palne-jbobau }
 
