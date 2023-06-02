@@ -1,7 +1,7 @@
 ---
 date: 2023-03-20
-title: <span class="jbobau">...</span> — Wildlife Surprises
-excerpt:  ...
+title: <span class="jbobau">lo cicyda'u spaji</span> — Wildlife Surprises
+excerpt: mi cu trajynei fi tu'a le cange fe lo cilce danlu
 ---
 
 # <span class="jbobau">lo cicyda'u spaji</span> — Wildlife Surprises
