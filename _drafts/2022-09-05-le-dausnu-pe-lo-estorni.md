@@ -26,8 +26,8 @@ excerpt: .i le dalgunma be lo .estorni cu xabju le cange
 | .i le fenxeli purdi caca'o se plixa | The fennel field is in the middle of being hoed.
 | .i loka sraji pe le cmalu spati cu inci li xa .i lei cicyspa cu inci li vo  | The little plants stand **about** six inches tall and the weeds **about** four.
 | .i lenu plixa pe lo cpumi'i cu muljbi cicyspavi'u .i le'i kurkucydakfu pilno cu gunka | Tractor cultivation cleaned up many of the weeds and the hoeing crew goes **next**.
-| .i | The combination of the two techniques results in all of the ground being turned over, the weeds failing and the insect population left with no home.
-| .i | I walked out to inspect the progress of the hoeing crew and was surprised to note the entire flock of starlings in the fennel patch.
+| .i le selcmi be le re tadji cu pruce fi lenu plixa lo dertu kei .e lenu blegau lo cicyspa kei .e lenu lo cinki cu to'e selzdani | The combination of the two techniques results in **all of** the ground being turned over, the weeds failing and the insect **population** left with no home.
+| .i mi cadzu mu'i le nilmu'o pe lenu macnu plixa .ije mi selspaji lenu le dalgunma be lo .estorni cu zvati le fenxeli purdi | I walked out to inspect the progress of the hoeing crew and was surprised to note the **entire** flock of starlings in the fennel patch.
 | .i | The birds were jumping around chasing down dinner before settling into an evening of gossiping in the tall oak trees.
 | .i | They noticed me, but paid little attention to my presence, — at best they were courteous enough to hop out of my way.
 |---
