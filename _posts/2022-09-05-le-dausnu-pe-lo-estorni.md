@@ -28,11 +28,11 @@ excerpt: .i le dalgunma be lo .estorni cu xabju le cange
 | .i lenu plixa pe lo cpumi'i cu muljbi cicyspavi'u .i le'i kurkucydakfu pilno cu gunka | Tractor cultivation cleaned up many of the weeds and the hoeing crew goes **next**.
 | .i le selcmi be le re tadji cu pruce fi lenu plixa lo dertu kei .e lenu blegau lo cicyspa kei .e lenu lo cinki cu to'e selzdani | The combination of the two techniques results in **all of** the ground being turned over, the weeds failing and the insect **population** left with no home.
 | .i mi cadzu mu'i le nilmu'o pe lenu macnu plixa .ije mi selspaji lenu le dalgunma be lo .estorni cu zvati le fenxeli purdi | I walked out to inspect the progress of the hoeing crew and was surprised to note the **entire** flock of starlings in the fennel patch.
-| .i | The birds were jumping around chasing down dinner before settling into an evening of gossiping in the tall oak trees.
-| .i | They noticed me, but paid little attention to my presence, — at best they were courteous enough to hop out of my way.
+| .i lei cipni cu plipe gi'e kalte lo vacysai .ijebabo cy cu surla gi'e jikca ca'o le vanci | The birds were jumping **around** chasing down dinner before settling into an evening of gossiping **in the tall oak trees**.
+| .i cy cu ganse mi .i ku'i cy cu na selfanza mi .i da'inai cy cu clite curmi lenu mi lampagre ra | They noticed me, but paid little attention to my presence, — at best they were courteous enough to _hop out of my way_.
 |---
-| .i | It didn't take long for me to wonder if the bugs they were eating were good or bad bugs.
-| .i | It also didn't take long for me to imagine how great it would be if the starlings and I could make a deal, — they could have an unlimited supply of fresh fruit in peace, in exchange for pest termination services.
+| .i mi kucli lejei xamgu fa lei cinki noi selcitka lei cipni | **It didn't take long for** me to wonder if the bugs they were eating were good or bad bugs.
+| mi sexanri lesi'o selsimtu'i lo .estorni .e mi .i mu'a ra citka lo grute .ije ra sabji lenu cicycinki dargau | **It also didn't take long for** me to imagine **how great it would be** if the starlings and I could make a deal, — they could have **an unlimited supply of fresh** fruit **in peace**, in exchange for pest termination services.
 |---
 | .i .e'o ko nelci le do tanxe .ije .e'o ko zvaju'o mi'a la INSTAGRAM jau'o <span class="latmylerfu">[@farmerthaddeus]</span> .e <span class="latmylerfu">[@farmfreshtoyou]</span> | Enjoy your boxes and don't forget to check us out on Instagram [@farmerthaddeus] and [@farmfreshtoyou].
 | fi'e la TADIYS | — Thaddeus
