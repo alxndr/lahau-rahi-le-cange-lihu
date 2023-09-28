@@ -15,43 +15,31 @@ search: false
 @mixin zbalermorna {
   font-size: 1.25em;
   font-family: "Zbalermorna Upright";
-  // *:hover > &, // so span.jbobau works _within_ a link ... but is overeager with .palne-jbobau
-  &:hover {
-    font-size: 1.1em !important;
-    font-family: sans-serif !important;
-    line-height: 2em !important;
-  }
 }
 
 * {
-  transition: none !important;
+  transition: none !important; // reset
 }
 
 h1 {
   text-align: center;
 }
 
-.archive__item-excerpt,
-.jbobau,
-.masthead a {
-  //@include zbalermorna;
+.zbalermorna,
+.zbalermorna * {
+  @include zbalermorna;
 }
 
-.palne-jbobau {
+table {
   thead * {
+    border-bottom-width: 1px;
     text-align: center;
   }
   tbody {
-    font-size: 1.2em;
-    border-bottom: 1.5em solid #eee;
+    font-size: 1.1em;
+    border-bottom: 2px solid #eee;
   }
-  tr > * {
-    width: 50%;
-    &:first-child {
-      //@include zbalermorna;
-    }
-  }
-  .latmylerfu {
-    font-family: sans-serif;
+  td {
+    border-bottom: none;
   }
 }

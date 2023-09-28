@@ -4,15 +4,19 @@ permalink: /about/
 ---
 
 | jbobau | English
-| ---
-| .i ti xelfanva fi [la jbobau] fe lo cange nuzba poi finti fa [la TADIYS voi'i tercange] | [Lojban] interpretations of farm updates, originally authored by [Farmer Thaddeus] **via [Farm Fresh to You]'s [CSA farm boxes].** **English text which is marked in bold has not yet been translated.**
-| ---
-| .i [la rexsa] pu fanva si'u la janbe .e la srasu .e la xamsi .e la bicyxli .e lu'a la [roljbogu'e] .i ki'esai [la jbofi'e] .e [la lidysisku] .e [la sutysisku] .e [la .ilmentufa] | Interpreted by [Alexander aka Rexsa], with **much** help from Janbe, Srasu, Xamsi, Bicyxli, and others from the [roljbogu'e] **Discord**. Many thanks to the [Jbofihe], [Lidysisku], [Sutysisku], and [Ilmentufa] **sites**.
-|  | **This is a learning exercise for me, so there may be errors and inconsistencies.** **In particular, I am attempting to use modern terms, but not using e.g. a [Lojban dialect which modifies particles](https://web.archive.org/web/20220808222802/https://vlasisku.lojban.org/tcekitau).**
-| ---
-| .i le sinxa samrxra cu se zbasu sepi'o [la KREION.] .i le sinxa be la lojbau pu se zbasu la .ELMOS.TODUROV. gi'e [gubni] | The logo image was partially created using [craiyon]. The Lojban icon is by Elmo Todurov and [is in the public domain].
-| ---
-| .i [la gitub. cu kibyse'u] | [Hosted on GitHub].
+|---
+| .i ti xelfanva fi [la jbobau] fe lo cange nuzba poi finti fa [la TADIYS voi'i tercange] | [Lojban] interpretations of farm updates, originally authored by [Farmer Thaddeus] **via [Farm Fresh to You]'s [CSA farm boxes].**
+|  | **English text which is marked in bold has not yet been translated.**
+|---
+| .i [la rexsa] pu fanva si'u la janbe .e la srasu .e la xamsi .e la bicyxli .e lu'a la [roljbogu'e] | Interpreted by [Alexander aka Rexsa], with **much** help from Janbe, Srasu, Xamsi, Bicyxli, and others from the [roljbogu'e] **Discord**.
+| .i ki'esai [la jbofi'e] .e [la lidysisku] .e [la sutysisku] .e [la .ilmentufa] | Many thanks to the [Jbofihe], [Lidysisku], [Sutysisku], and [Ilmentufa] **sites**.
+|  | **This is a learning exercise for me, so there may be errors and inconsistencies.**
+|  | **In particular, I am attempting to use modern terms, but not using e.g. a [Lojban dialect which modifies particles](https://web.archive.org/web/20220808222802/https://vlasisku.lojban.org/tcekitau).**
+|---
+| .i le sinxa samrxra cu se zbasu sepi'o [la KREION.] | The logo image was **partially** created using [craiyon].
+| .i le sinxa be la lojbau pu se zbasu la .ELMOS.TODUROV. gi'e [gubni] | The Lojban icon is by Elmo Todurov and [is in the public domain].
+|---
+| .i kibyse'u fa [la gitub.] | Hosted on [GitHub].
 {: .palne-jbobau }
 
 [gubni]: https://commons.wikimedia.org/wiki/File:Lojban_logo.svg
@@ -20,7 +24,7 @@ permalink: /about/
 [CSA farm boxes]: https://wikipedia.org/wiki/Community-supported_agriculture
 [Farm Fresh to You]: https://farmfreshtoyou.com
 [Farmer Thaddeus]: https://instagram.com/farmerthaddeus
-[Hosted on GitHub]: https://github.com/alxndr/lahau-rahi-le-cange-lihu
+[GitHub]: https://github.com/alxndr/lahau-rahi-le-cange-lihu
 [Ilmentufa]: https://lojban.github.io/ilmentufa/glosser/glosser.htm
 [Jbofihe]: https://jboski.lojban.org
 [Lojban]: https://mw.lojban.org
@@ -30,7 +34,7 @@ permalink: /about/
 [Zbalermorna Upright]: https://github.com/jackhumbert/zbalermorna-upright-font
 [craiyon]: https://www.craiyon.com
 [is in the public domain]: https://commons.wikimedia.org/wiki/File:Lojban_logo.svg
-[la gitub. cu kibyse'u]: https://github.com/alxndr/lahau-rahi-le-cange-lihu
+[la gitub.]: https://github.com/alxndr/lahau-rahi-le-cange-lihu
 [la .ilmentufa]: https://lojban.github.io/ilmentufa/glosser/glosser.htm
 [la jbobau]: https://mw.lojban.org
 [la jbofi'e]: https://jboski.lojban.org
