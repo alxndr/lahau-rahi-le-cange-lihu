@@ -31,15 +31,18 @@ h1 {
 }
 
 table {
-  thead * {
-    border-bottom-width: 1px;
-    text-align: center;
+  thead {
+    border-bottom: 0.2rem solid #aaa;
   }
   tbody {
-    font-size: 1.1em;
-    border-bottom: 2px solid #eee;
+    font-size: 1.1em; // em not rem
+    border-bottom: 1.7em solid #ccc;
+  }
+  tr:nth-child(2n) {
+    background-color: #f7f7f7;
   }
   td {
+    padding: 0.1rem 0.5rem;
     border-bottom: none;
   }
 }

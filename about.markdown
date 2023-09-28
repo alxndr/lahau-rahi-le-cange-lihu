@@ -19,7 +19,6 @@ permalink: /about/
 | .i kibyse'u fa [la gitub.] | Hosted on [GitHub].
 {: .palne-jbobau }
 
-[gubni]: https://commons.wikimedia.org/wiki/File:Lojban_logo.svg
 [Alexander aka Rexsa]: https://mastodon.xyz/web/@alxndr
 [CSA farm boxes]: https://wikipedia.org/wiki/Community-supported_agriculture
 [Farm Fresh to You]: https://farmfreshtoyou.com
@@ -27,15 +26,18 @@ permalink: /about/
 [GitHub]: https://github.com/alxndr/lahau-rahi-le-cange-lihu
 [Ilmentufa]: https://lojban.github.io/ilmentufa/glosser/glosser.htm
 [Jbofihe]: https://jboski.lojban.org
-[Lojban]: https://mw.lojban.org
 [Lidysisku]: https://sisku.org
+[Lojban]: https://mw.lojban.org
 [Sutysisku]: https://la-lojban.github.io/sutysisku/lojban
-[Zbalermorna]: https://jackhumbert.github.io/zbalermorna/
 [Zbalermorna Upright]: https://github.com/jackhumbert/zbalermorna-upright-font
+[Zbalermorna]: https://jackhumbert.github.io/zbalermorna/
 [craiyon]: https://www.craiyon.com
+[gubni]: https://commons.wikimedia.org/wiki/File:Lojban_logo.svg
 [is in the public domain]: https://commons.wikimedia.org/wiki/File:Lojban_logo.svg
-[la gitub.]: https://github.com/alxndr/lahau-rahi-le-cange-lihu
 [la .ilmentufa]: https://lojban.github.io/ilmentufa/glosser/glosser.htm
+[la KREION.]: https://www.craiyon.com
+[la TADIYS voi'i tercange]: https://instagram.com/farmerthaddeus
+[la gitub.]: https://github.com/alxndr/lahau-rahi-le-cange-lihu
 [la jbobau]: https://mw.lojban.org
 [la jbofi'e]: https://jboski.lojban.org
 [la kmir]: https://mw.lojban.org/papri/User:Kmir
@@ -43,6 +45,4 @@ permalink: /about/
 [la rexsa]: https://mastodon.xyz/web/@alxndr
 [la sutysisku]: https://la-lojbangithub.io/sutysisku/lojban
 [la zbalermorna.YPRAIT.]: https://github.com/jackhumbert/zbalermorna-upright-font
-[la KREION.]: https://www.craiyon.com
-[la TADIYS voi'i tercange]: https://instagram.com/farmerthaddeus
 [roljbogu'e]: https://discord.gg/SPBBnwP6PQ

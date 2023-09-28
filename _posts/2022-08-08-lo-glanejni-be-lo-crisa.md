@@ -26,7 +26,7 @@ excerpt: .i lonu catlu lo tsani pe le cange zo'u cinri ca lo cabjeftu
 | .iji'a mi'a ca'o sombo .ije ko nulpa'a ti'u le sozma'i lonu sabji fe lo critu zei stagi | We're planting seeds too, so look out for fall vegetables **of all kinds** coming along in September!
 | ---
 | .i ko nelci le do tanxe poi cabjeftu | Enjoy your box this week.
-| .i ko je'ebzi mi'a la .instagram. jau'o <span class="latmylerfu">[@farmerthaddeus]</span> .e <span class="latmylerfu">[@farmfreshtoyou]</span> | Make sure to find us on Instagram [@farmerthaddeus] and [@farmfreshtoyou].
+| .i ko je'ebzi mi'a la .instagram. jau'o [@farmerthaddeus] .e [@farmfreshtoyou] | Make sure to find us on Instagram [@farmerthaddeus] and [@farmfreshtoyou].
 | fi'e la TADIYS | — Thaddeus
 {: .palne-jbobau }
 

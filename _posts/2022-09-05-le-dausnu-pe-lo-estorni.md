@@ -34,11 +34,12 @@ excerpt: .i le dalgunma be lo .estorni cu xabju le cange
 | .i mi kucli lejei xamgu fa lei cinki noi selcitka lei cipni | **It didn't take long for** me to wonder if the bugs they were eating were good or bad bugs.
 | mi sexanri lesi'o selsimtu'i lo .estorni .e mi .i mu'a ra citka lo grute .ije ra sabji lenu cicycinki dargau | **It also didn't take long for** me to imagine **how great it would be** if the starlings and I could make a deal, — they could have **an unlimited supply of fresh** fruit **in peace**, in exchange for pest termination services.
 |---
-| .i .e'o ko nelci le do tanxe .ije .e'o ko zvaju'o mi'a la INSTAGRAM jau'o <span class="latmylerfu">[@farmerthaddeus]</span> .e <span class="latmylerfu">[@farmfreshtoyou]</span> | Enjoy your boxes and don't forget to check us out on Instagram [@farmerthaddeus] and [@farmfreshtoyou].
+| .i .e'o ko nelci le do tanxe .ije .e'o ko zvaju'o mi'a la INSTAGRAM jau'o [@farmerthaddeus] .e [@farmfreshtoyou] | Enjoy your boxes and don't forget to check us out on Instagram [@farmerthaddeus] and [@farmfreshtoyou].
 | fi'e la TADIYS | — Thaddeus
 {: .palne-jbobau }
 
-[![photo of "The Starling Debate", via _From the Fields_ 2022 September 5–9](https://i.imgur.com/XiNQcvdl.jpg)](https://i.imgur.com/XiNQcvd.jpg){: .align-center}
+{: .align-center}
+[![photo of "The Starling Debate", via _From the Fields_ 2022 September 5–9](https://i.imgur.com/XiNQcvdl.jpg)](https://i.imgur.com/XiNQcvd.jpg)
 
 [@farmerthaddeus]: https://instagram.com/farmerthaddeus
 [@farmfreshtoyou]: https://instagram.com/farmfreshtoyou
