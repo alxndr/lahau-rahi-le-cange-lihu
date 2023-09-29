@@ -8,7 +8,7 @@ permalink: /about/
 | .i ti xelfanva fi [la jbobau] fe lo cange nuzba poi finti fa [la TADIYS voi'i tercange] | [Lojban] interpretations of farm updates, originally authored by [Farmer Thaddeus] **via [Farm Fresh to You]'s [CSA farm boxes].**
 |  | **English text which is marked in bold has not yet been translated.**
 |---
-| .i [la rexsa] pu fanva si'u la janbe .e la srasu .e la xamsi .e la bicyxli .e lu'a la [roljbogu'e] | Interpreted by [Alexander aka Rexsa], with **much** help from Janbe, Srasu, Xamsi, Bicyxli, and others from the [roljbogu'e] **Discord**.
+| .i [la rexsa] pu fanva si'u la janbe .e la srasu .e la xamsi .e la bicyxli .e la piier .e lu'a la [roljbogu'e] | Interpreted by [Alexander aka Rexsa], with **much** help from Janbe, Srasu, Xamsi, Bicyxli, Piier, and others from the [roljbogu'e] **Discord**.
 | .i ki'esai [la jbofi'e] .e [la lidysisku] .e [la sutysisku] .e [la .ilmentufa] | Many thanks to the [Jbofihe], [Lidysisku], [Sutysisku], and [Ilmentufa] **sites**.
 |  | **This is a learning exercise for me, so there may be errors and inconsistencies.**
 |  | **In particular, I am attempting to use modern terms, but not using e.g. a [Lojban dialect which modifies particles](https://web.archive.org/web/20220808222802/https://vlasisku.lojban.org/tcekitau).**
