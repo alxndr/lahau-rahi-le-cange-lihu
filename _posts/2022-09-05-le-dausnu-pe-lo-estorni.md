@@ -38,8 +38,8 @@ excerpt: .i le dalgunma be lo .estorni cu xabju le cange
 | fi'e la TADIYS | — Thaddeus
 {: .palne-jbobau }
 
-{: .align-center}
 [![photo of "The Starling Debate", via _From the Fields_ 2022 September 5–9](https://i.imgur.com/XiNQcvdl.jpg)](https://i.imgur.com/XiNQcvd.jpg)
+{:.center}
 
 [@farmerthaddeus]: https://instagram.com/farmerthaddeus
 [@farmfreshtoyou]: https://instagram.com/farmfreshtoyou

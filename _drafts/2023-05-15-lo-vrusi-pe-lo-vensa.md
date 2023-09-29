@@ -34,7 +34,8 @@ excerpt: ...
 | fi'e la TADIYS | — [Thaddeus][@farmerthaddeus]
 {: .palne-jbobau }
 
-[![photo of "The Taste of Spring" leaflet, via _From the Fields_ 2023 May 15–19](https://i.imgur.com/JXGy63dl.jpg)](https://i.imgur.com/JXGy63d.jpg){: .align-center}
+[![photo of "The Taste of Spring" leaflet, via _From the Fields_ 2023 May 15–19](https://i.imgur.com/JXGy63dl.jpg)](https://i.imgur.com/JXGy63d.jpg)
+{:.center}
 
 [@farmerthaddeus]: https://instagram.com/farmerthaddeus
 [@farmfreshtoyou]: https://instagram.com/farmfreshtoyou

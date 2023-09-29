@@ -30,7 +30,8 @@ excerpt: .i lonu catlu lo tsani pe le cange zo'u cinri ca lo cabjeftu
 | fi'e la TADIYS | — Thaddeus
 {: .palne-jbobau }
 
-[![photo of "Summer's Days", via "From the Fields" 2022 August 8–12](https://i.imgur.com/gMgAWQPl.jpg)](https://i.imgur.com/gMgAWQP.jpg){: .align-center}
+[![photo of "Summer's Days", via "From the Fields" 2022 August 8–12](https://i.imgur.com/gMgAWQPl.jpg)](https://i.imgur.com/gMgAWQP.jpg)
+{:.center}
 
 [@farmerthaddeus]: https://instagram.com/farmerthaddeus
 [@farmfreshtoyou]: https://instagram.com/farmfreshtoyou

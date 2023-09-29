@@ -35,7 +35,8 @@ excerpt: ...
 | fi'e la TADIYS | — Thaddeus
 {: .palne-jbobau }
 
-[![photo of "Mother Oak" leaflet, via _From the Fields_ 2022 October 3–7](https://i.imgur.com/puQX8D8.jpg)](https://i.imgur.com/puQX8D8.jpg){: .align-center}
+[![photo of "Mother Oak" leaflet, via _From the Fields_ 2022 October 3–7](https://i.imgur.com/puQX8D8.jpg)](https://i.imgur.com/puQX8D8.jpg)
+{:.center}
 
 [@farmerthaddeus]: https://instagram.com/farmerthaddeus
 [@farmfreshtoyou]: https://instagram.com/farmfreshtoyou

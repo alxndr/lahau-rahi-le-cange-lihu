@@ -30,7 +30,8 @@ excerpt: .i le solri ba'o jukpa pe'a jai rinka lonu lei cmana cu melbi sloska ku
 | fi'e la TADIYS | — Thaddeus
 {: .palne-jbobau }
 
-[![photo of "Summer Days", via _From the Fields_ 2022 July 25–29](https://i.imgur.com/4V304JPl.jpg)](https://i.imgur.com/4V304JP.jpg){: .align-center}
+[![photo of "Summer Days", via _From the Fields_ 2022 July 25–29](https://i.imgur.com/4V304JPl.jpg)](https://i.imgur.com/4V304JP.jpg)
+{:.center}
 
 [@farmerthaddeus]: https://instagram.com/farmerthaddeus
 [@farmfreshtoyou]: https://instagram.com/farmfreshtoyou

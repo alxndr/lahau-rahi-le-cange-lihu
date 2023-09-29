@@ -40,7 +40,8 @@ excerpt: mi cu trajynei fi tu'a le cange fe lo cilce danlu
 | fi'e la TADIYS | — Thaddeus
 {: .palne-jbobau }
 
-[![photo of "Wildlife Surprises" leaflet, via _From the Fields_ 2023 March 20–24](https://i.imgur.com/KUIv5j6.jpg)](https://i.imgur.com/KUIv5j6.jpg){: .align-center}
+[![photo of "Wildlife Surprises" leaflet, via _From the Fields_ 2023 March 20–24](https://i.imgur.com/KUIv5j6.jpg)](https://i.imgur.com/KUIv5j6.jpg)
+{:.center}
 
 [@farmerthaddeus]: https://instagram.com/farmerthaddeus
 [@farmfreshtoyou]: https://instagram.com/farmfreshtoyou

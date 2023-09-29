@@ -37,7 +37,8 @@ excerpt: ...
 | fi'e la TADIYS | — Thaddeus
 {: .palne-jbobau }
 
-[![photo of "Halloween Binge" leaflet, via _From the Fields_ 2022 October 31](https://i.imgur.com/lx5mWYw.jpeg)](https://i.imgur.com/lx5mWYw.jpeg){: .align-center}
+[![photo of "Halloween Binge" leaflet, via _From the Fields_ 2022 October 31](https://i.imgur.com/lx5mWYw.jpeg)](https://i.imgur.com/lx5mWYw.jpeg)
+{:.center}
 
 [@farmerthaddeus]: https://instagram.com/farmerthaddeus
 [@farmfreshtoyou]: https://instagram.com/farmfreshtoyou

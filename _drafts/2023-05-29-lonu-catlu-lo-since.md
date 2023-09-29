@@ -42,8 +42,8 @@ excerpt: ...
 | fi'e la TADIYS | — Thaddeus
 {: .palne-jbobau }
 
-[![photo of "Snake Sighting" leaflet, via _From the Fields_ 2023 May 15–19](https://i.imgur.com/R4EMemml.jpg)](https://i.imgur.com/R4EMemm.jpg){: .align-center}
+[![photo of "Snake Sighting" leaflet, via _From the Fields_ 2023 May 15–19](https://i.imgur.com/R4EMemml.jpg)](https://i.imgur.com/R4EMemm.jpg)
+{:.center}
 
 [@farmerthaddeus]: https://instagram.com/farmerthaddeus
 [@farmfreshtoyou]: https://instagram.com/farmfreshtoyou
-

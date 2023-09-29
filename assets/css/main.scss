@@ -36,7 +36,7 @@ table {
   }
   tbody {
     font-size: 1.1em; // em not rem
-    border-bottom: 1.7em solid #ccc;
+    border-bottom: 1em solid #ccc;
   }
   tr:nth-child(2n) {
     background-color: #f7f7f7;
@@ -45,4 +45,8 @@ table {
     padding: 0.1rem 0.5rem;
     border-bottom: none;
   }
+}
+
+.center {
+  text-align: center;
 }

@@ -28,7 +28,8 @@ excerpt: ...
 | fi'e la TADIYS | — Thaddeus
 {: .palne-jbobau }
 
-[![photo of "ENGLISHTITLE" leaflet, via _From the Fields_ 2023 Month ##–##](https://i.imgur.com/_______.jpg)](https://i.imgur.com/_______.jpg){: .align-center}
+[![photo of "ENGLISHTITLE" leaflet, via _From the Fields_ 2023 Month ##–##](https://i.imgur.com/_______.jpg)](https://i.imgur.com/_______.jpg)
+{:.center}
 
 [@farmerthaddeus]: https://instagram.com/farmerthaddeus
 [@farmfreshtoyou]: https://instagram.com/farmfreshtoyou
