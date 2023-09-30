@@ -19,18 +19,12 @@ permalink: /about/
 .i mi troci le nu pilno lo me'i du'e cnino valsi kei gi'e na pilno lo [tcekitau] mu'a
 : **In particular,** I am attempting to use modern terms, but not using e.g. a [Lojban dialect which modifies particles][tcekitau].
 
----
-
-{:.fanva}
 .i le sinxa samrxra cu se zbasu sepi'o la [KREION.][craiyon]
 : The logo image was **partially** created using [craiyon].
 
 .i le sinxa be la lojbau pu se zbasu la .ELMOS.TODUROV. gi'e [gubni][public domain]
 : The Lojban icon is by Elmo Todurov and is in the [public domain].
 
----
-
-{:.fanva}
 .i la [gitub.][GitHub] kibyse'u
 : Hosted on [GitHub].
 
