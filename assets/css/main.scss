@@ -49,10 +49,14 @@ table {
 
 dl.fanva {
   display: grid;
-  grid-template-columns: 46% auto;
-
+  grid-template-columns: 45% auto;
   > * {
-    margin: 0 0.5rem;
+    margin: 0;
+    padding: 0.3rem 0.5rem;
+    &:nth-child(4n+1),
+    &:nth-child(4n+2) {
+      background-color: #f7f7f7;
+    }
   }
   dt {
     grid-column: 1;
