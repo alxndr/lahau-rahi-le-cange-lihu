@@ -6,8 +6,8 @@ excerpt: ...
 ---
 
 {:.fanva}
-.i vi la cmari'e ku zvati fa lo pa bracai cindytricu noi se cmene la mamta cindu teme'e la NO,AX noi laldybu'a be mi .i vi le tricu do'ei viska u'e lo brabra jimca be le stani noi mutce rotsu
-: Near the creek there is a huge oak tree that was named the Mother Oak by my older brother, Noah. Standing **under** the tree yields **the most impressive** view of the massive branches that stem from the **six-foot diameter** trunk. **The branches follow the trajectory of a firework, starting straight up and arching away from the trunk, eventually turning back down to the ground. Hanging from the branches are many small limbs that fork into twigs which bear the uniquely shaped oak leaves.**
+.i vi la cmari'e ku zvati fa lo pa bracai cindytricu noi se cmene la mamta cindu teme'e la NO,AX noi laldybu'a be mi .i vi le tricu do'ei viska u'e lo brabra jimca be le stani noi mutce rotsu .i lo jimca cu caltaismi lo pluta pe lo jadypo'a .i ji'a jimca be ra fa lo jimca noi selpo'i fa lo jicycma poi jarco lo cindu pezli
+: Near the creek there is a huge oak tree that was named the Mother Oak by my older brother, Noah. Standing **under** the tree yields **the most impressive** view of the massive branches that stem from the **six-foot diameter** trunk. The branches follow the trajectory of a firework, **starting straight up and arching away from the trunk, eventually turning back down to the ground**. **Hanging** from the branches are **many** small limbs that fork into twigs which bear the **uniquely shaped** oak leaves.
 
 .i
 : **This is the time of year that the acorns fall from the oak trees. This year's crop of acorns is being gathered to add to the oak preserve just east of the Mother Oak. The plan is to collect acorns and store them in the barn until the rainy season. Then we will drop three acorns in each of the spots designated to grow an oak tree. We have the irrigation system, and the next couple years of watering the little trees through the summer months should yield a nice stand of oak trees.**
