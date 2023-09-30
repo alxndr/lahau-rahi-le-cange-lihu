@@ -47,6 +47,21 @@ table {
   }
 }
 
+dl.fanva {
+  display: grid;
+  grid-template-columns: 38% auto;
+
+  > * {
+    margin: 0 0.5rem;
+  }
+  dt {
+    grid-column: 1;
+  }
+  dd {
+    grid-column: 2;
+  }
+}
+
 .center {
   text-align: center;
 }
