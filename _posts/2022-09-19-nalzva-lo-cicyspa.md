@@ -33,7 +33,7 @@ excerpt: ru'a mlerai fa lonu viska lo jinsa purdi poi selxa'u lo selcrepu zi'e p
 | fi'e la TADIYS | — Thaddeus
 {: .palne-jbobau }
 
-[![photo of "Absent of Weeds", via _From the Fields_ 2022 September 19–23](https://i.imgur.com/vQL2Ffj.jpg)](https://i.imgur.com/vQL2Ffj.jpg)
+[![photo of "Absent of Weeds", via _From the Fields_ 2022 September 19–23](https://i.imgur.com/vQL2Ffjl.jpg)](https://i.imgur.com/vQL2Ffj.jpg)
 {:.center}
 
 [@farmerthaddeus]: https://instagram.com/farmerthaddeus
