@@ -5,6 +5,8 @@ slug: nalzva fa lo cicyspa
 excerpt: ru'a mlerai fa lonu viska lo jinsa purdi poi selxa'u lo selcrepu zi'e poi nalzva fa lo cicyspa
 ---
 
+# <span class="jbobau">nalzva fa lo cicyspa</span> — Absent of Weeds
+
 .i ru'a mlerai fa lonu viska lo jinsa purdi poi selxa'u lo selcrepu noi kanro zi'e poi nalzva fa lo cicyspa .i lo te pruce pe lo sombo cabra cu ckaji loka sirji .i va'i sycy cu punji lo tsiju .a lo citspa fi lo dertu fi'o satci sirjga .i ja'e tcefrili fa le zu'o viska lo selcrepu poi mi'a pu sombo .i .a'o le mi gejrdauko noi se cmima lo cmatu'a la'u li xa cu simsa xa crino lijgri poi sepli fi lo dertu .i le gejrdauko purdi noi mi ca viska cu terganzu .i lo se jaursabji pe lo cabdeicerni co'a se sudga lo dertu
 : There are not **many** things that are more beautiful to me than the sight of a clean field populated with healthy crops, absent of weeds. Planting equipment is linear, putting straight and precisely spaced lines of seeds or transplants on a bed of soil. This makes it really easy to see the crop we planted. If everything goes well, then my carrots, which are six lines to a bed, can be seen as six green rows separated by **a few inches of** dirt. Right now, the field of carrots I am looking at is nicely spaced and the morning's irrigation is beginning to dry **in spots, leaving a marbled look of browns and blacks across the clean field of carrots**.
 

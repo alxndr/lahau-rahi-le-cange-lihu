@@ -6,7 +6,6 @@ excerpt: .i le dalgunma be lo .estorni cu xabju le cange
 
 # <span class="jbobau">le dausnu pe lo .estorni</span> — The Starling Debate
 
-{:.fanva}
 .i le dalgunma be lo .estorni cu xabju le cange .i ko'agoi loi .estorni cu kansi'u lonu citka je lonu sipna je lonu klama .i ko'a se zdastu lo galraipau be loi barda cindu joi maprultricu .i na frili fa lonu viska ko'a bu'u loi pezli .i ku'i loi su'o renono cmalu zei ja'urxe'a cu torbrato'a fa'a ri .i mu'i leka bredi be lonu muvdu keikei pe le girzu zo'u so'u cipni cu cliva .i lo velvi'u cu klaje'i .i vy li'urxa'u le cange .i le selska pe le dalgunma ge'u cu binxo
 : There is a flock of starlings that resides on the farm. Starlings eat, sleep and travel together. The tops of the big oak and eucalyptus trees are their nesting grounds. They are not easily seen among the leaves, but **hundreds of** little beaks squeak at each other **in the quick high-pitched murmurs that reveal their presence to a trained ear**. When the group is ready to change locations, a couple of birds leave and the remainder follow. They travel over the farm **like a swarm of insects, swooping up and down, to the left or right in a fluid motion**. The color of the flock changes **as more or less daylight can be seen through the three-dimensional mass of birds**.
 
@@ -24,6 +23,7 @@ excerpt: .i le dalgunma be lo .estorni cu xabju le cange
 
 .i fi'e la TADIYS
 : — Thaddeus
+{:.fanva}
 
 [![photo of "The Starling Debate", via _From the Fields_ 2022 September 5–9](https://i.imgur.com/XiNQcvdl.jpg)](https://i.imgur.com/XiNQcvd.jpg)
 {:.center}
