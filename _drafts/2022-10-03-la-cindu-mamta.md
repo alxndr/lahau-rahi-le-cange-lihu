@@ -2,7 +2,7 @@
 date: 2022-10-03
 title: <span class="jbobau">la mamta cindu</span> — Mother Oak
 slug: la mamta cindu
-excerpt: ...
+excerpt: zvati vi la cmari'e fa lo pa bracai cindytricu noi se cmene la mamta cindu teme'e la NO,AX noi laldybu'a be mi
 ---
 
 # <span class="jbobau">la mamta cindu</span> — Mother Oak
@@ -16,8 +16,8 @@ excerpt: ...
 .i lo preti poi mi caca'o pensi zo'u ei kau sarcu le nu mycy cu dzena lei ti tricu kei ji le nu jajgau loi cindynarge le mulpau pe le cange .i de'a mi krici le jei sarcu lenu ke'a se dzena mycy
 : The question I have been toiling with is: Should **all** of these oak trees be descendants of the Mother Oak, or should I gather **a mixture of** acorns from oak trees all over the farm? Originally, I felt **strongly** that they should all be from the Mother Oak **because this patch of trees is adjacent to her**.
 
-.i le tsiju be mycy zo'u .uinai ke'a moxna
-: Unfortunately, her crop of acorns this year is extremely light. **Some years the acorn crop is large enough to make a solid layer under the oak tree — this year it was difficult to find even one. Moyra and I spent quite some time scanning the floor underneath the massive tree to find only a few acorns, — most of which had been chewed up by the local fauna. I started looking in the tree which proved to be more productive. At first glance, there was nothing visible but leaves; it took a few minutes before I spotted the first acorn. It was well hidden, but once I saw the acorn it stood out like a sore thumb. It was bright green and pointy, with a hat on it the texture of bark.**
+.i le tsiju be mycy zo'u .uinai ke'a moxna .i dau'e tercitsi zo'u le ni cindynarge cu banzu lenu rotsu se senta vi le tricu .i je le ti tercitsi zo'u nandu le li'i zvafa'i su'opa ke'a .i la Moirax .e mi cu sisku ti'u zo'e di'o le dertu vi le bratricu ja'e so'u ue cindynarge
+: Unfortunately, her crop of acorns this year is extremely light. Some years the acorn crop is large enough to make a solid layer under the oak tree — this year it was difficult to find even one. Moyra and I spent **quite some** time scanning the floor **underneath** the massive tree to find only a few acorns, **— most of which had been chewed up by the local fauna**. **I started looking in the tree which proved to be more productive**. **At first glance, there was nothing visible but leaves; it took a few minutes before I spotted the first acorn**. **It was well hidden, but once I saw the acorn it stood out like a sore thumb**. **It was bright green and pointy, with a hat on it the texture of bark**.
 
 .i
 : **After I got my "eyes on" for the acorns, the searching went better, but still only fielded half of a small baggie. We'll plant these acorns closest to the Mother Oak and scatter an even mixture of acorns from the other oak trees on the farm through the remaining patch.**
