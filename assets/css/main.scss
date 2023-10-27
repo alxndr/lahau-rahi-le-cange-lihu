@@ -30,7 +30,7 @@ h1 {
   @include zbalermorna;
 }
 
-table {
+table { // deprecated — refactor to use dl.fanva instead
   thead {
     border-bottom: 0.2rem solid #aaa;
   }
@@ -63,6 +63,11 @@ dl.fanva {
   }
   dd {
     grid-column: 2;
+  }
+  em {
+    color: gray;
+    font-style: normal;
+    text-decoration: 0.1em dotted underline green;
   }
 }
 
