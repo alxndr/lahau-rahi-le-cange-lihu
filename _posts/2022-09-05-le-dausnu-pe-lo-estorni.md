@@ -1,7 +1,7 @@
 ---
 date: 2022-09-05
 title: <span class="jbobau">le dausnu pe lo .estorni</span> — The Starling Debate
-excerpt: .i le dalgunma be lo .estorni cu xabju le cange
+excerpt: le dalgunma be lo .estorni cu xabju le cange
 ---
 
 # <span class="jbobau">le dausnu pe lo .estorni</span> — The Starling Debate
@@ -21,7 +21,7 @@ excerpt: .i le dalgunma be lo .estorni cu xabju le cange
 .i .e'o ko nelci le do tanxe .ije .e'o ko zvaju'o mi'a la INSTAGRAM jau'o [@farmerthaddeus] .e [@farmfreshtoyou]
 : Enjoy your boxes and don't forget to check us out on Instagram [@farmerthaddeus] and [@farmfreshtoyou].
 
-.i fi'e la tadi,ys
+.i fi'e la tadi,ys.
 : — Thaddeus
 {:.fanva}
 

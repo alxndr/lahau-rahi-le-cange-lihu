@@ -47,6 +47,13 @@ table { // deprecated — refactor to use dl.fanva instead
   }
 }
 
+.fanva {
+  em {
+    color: gray;
+    font-style: normal;
+    text-decoration: 0.1em dotted underline green;
+  }
+}
 dl.fanva {
   display: grid;
   grid-template-columns: 45% auto;
@@ -63,11 +70,6 @@ dl.fanva {
   }
   dd {
     grid-column: 2;
-  }
-  em {
-    color: gray;
-    font-style: normal;
-    text-decoration: 0.1em dotted underline green;
   }
 }
 

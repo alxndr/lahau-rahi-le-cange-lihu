@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 {:.fanva}
-.i ti xelfanva fi [la jbobau][Lojban] fe lo cange nuzba fi'e [la tadi,ys voi tercange][Farmer Thaddeus] ku'o fi'o velsku [lei selcrepu zei fatri cemsu'a][CSA farm boxes] pe [la'au cange vifne be'ei .odla][Farm Fresh to You]
+.i ti xelfanva fi [la jbobau][Lojban] fe lo cange nuzba fi'e [la tadi,ys. voi tercange][Farmer Thaddeus] ku'o fi'o velsku [lei selcrepu zei fatri cemsu'a][CSA farm boxes] pe [la'au cange vifne be'ei .odla][Farm Fresh to You]
 : [Lojban] interpretations of farm updates, originally authored by [Farmer Thaddeus] via [Farm Fresh to You]'s [CSA farm boxes].
 
 .i lo glibau valsi poi frica ku'o pu'o se fanva mi

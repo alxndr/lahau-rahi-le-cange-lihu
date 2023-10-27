@@ -20,7 +20,7 @@ excerpt: le solri ba'o jukpa pe'a jai rinka lonu lei cmana cu melbi sloska ku no
 .i a'o ko nelci le do tanxe poi cabjeftu .i ba'anaidai ko je'ebzi mi'a la INSTAGRAM jau'o [@farmerthaddeus] .e [@farmfreshtoyou]
 : Enjoy your boxes this week. Don't forget to _find and_ follow us on Instagram [@farmerthaddeus] and [@farmfreshtoyou].
 
-.i fi'e la tadi,ys
+.i fi'e la tadi,ys.
 : — Thaddeus
 {:.fanva}
 

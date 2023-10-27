@@ -1,6 +1,6 @@
 ---
 title: <span class="jbobau">lo glanejni be lo crisa</span> — Summer's Heat
-excerpt: .i lonu catlu lo tsani pe le cange zo'u cinri ca lo cabjeftu
+excerpt: lonu catlu lo tsani pe le cange zo'u cinri ca lo cabjeftu
 ---
 
 # <span class="jbobau">lo glanejni be lo crisa</span> — Summer's Heat
@@ -17,7 +17,7 @@ excerpt: .i lonu catlu lo tsani pe le cange zo'u cinri ca lo cabjeftu
 .i ko nelci le do tanxe poi cabjeftu .i ko je'ebzi mi'a la .instagram. jau'o [@farmerthaddeus] .e [@farmfreshtoyou]
 : Enjoy your box this week. Make sure to find us on Instagram [@farmerthaddeus] and [@farmfreshtoyou].
 
-.i fi'e la tadi,ys
+.i fi'e la tadi,ys.
 : — Thaddeus
 {:.fanva}
 
